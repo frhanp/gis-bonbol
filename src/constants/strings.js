@@ -1,3 +1,3 @@
 export default {
-  app_name: "KabGGIS"
+  app_name: "SIG-PBB"
 }
